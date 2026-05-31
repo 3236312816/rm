@@ -1,0 +1,2 @@
+[deploy]
+start = "python doudizhu-master/server/app.py"
