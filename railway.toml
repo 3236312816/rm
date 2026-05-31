@@ -2,5 +2,4 @@
 builder = "nixpacks"
 
 [deploy]
-startCommand = "python server/app.py"
-runtime = "python"
+startCommand = "python doudizhu-master/server/app.py"
